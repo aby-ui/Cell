@@ -29,6 +29,7 @@ local patrons = {
     {"warbaby (爱不易)", "warbaby", "心耀-冰风岗"},
     {"6ND8 (爱发电)", "6nd8"},
     {"伊莉丝翠的眷顾 (爱发电)", "yilisicuidejuangu"},
+    {"秋末旷夜 (爱发电)", "qiumokuangye"},
 }
 
 -- sort
